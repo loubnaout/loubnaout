@@ -47,7 +47,8 @@ Mohammed VI Polytechnic University – 1337 Coding School (2022–Present)
 
 ## 📫 Let’s Connect!
 
-- 📧 **Email:** loubnaoutbainout1@gmail.com  
+- 📧 **Email:** loubnaoutbainout1@gmail.com
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/loubna-outbainout-3a6a3b177/
 - 📱 **Phone:** +212 6 18 42 70 07  
 - 📍 **Location:** Marrakech, Morocco
 
