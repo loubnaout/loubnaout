@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👩‍💻 Loubna Outbainout
 
-<!--
-**loubnaout/loubnaout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full Stack Developer | AI Enthusiast | Open Source Contributor
 
-Here are some ideas to get you started:
+👋 Hi there! I'm **Loubna**, a passionate Full Stack Developer from Morocco 🇲🇦. I specialize in building robust web applications, real-time systems, and AI-powered tools .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 I’m always exploring new tech, collaborating on impactful projects, and contributing to open-source communities.
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 🧠 AI & Machine Learning
+`Model Training` `Image Processing` `Chatbots`
+
+### 💡 Programming Languages
+`Python` `JavaScript` `C` `C++` `Java` `PHP`
+
+### 🌐 Web Development
+`Django` `Flask` `REST APIs` `HTML` `CSS` `JavaScript`
+
+### ⚙️ DevOps & Networking
+`Docker` `Docker Compose` `Nginx` `TCP/IP` `Subnetting`
+
+### 🗃️ Databases
+`PostgreSQL` `MySQL`
+
+### 🧰 Tools & Other
+`Git` `UML` `WebSocket` `Bash` `Linux`
+
+---
+
+## 🎓 Education
+
+🧑‍🎓 Currently studying Software Engineering
+Mohammed VI Polytechnic University – 1337 Coding School (2022–Present)
+
+---
+
+## 🌍 Languages
+
+- 🇬🇧 English  
+- 🇫🇷 French  
+- 🇲🇦 Arabic
+
+---
+
+## 📫 Let’s Connect!
+
+- 📧 **Email:** loubnaoutbainout1@gmail.com  
+- 📱 **Phone:** +212 6 18 42 70 07  
+- 📍 **Location:** Marrakech, Morocco
+
+---
+
+## 🤝 Open to Collaborations
+Looking for exciting tech opportunities, internships, or project collabs.  
+Let’s build something amazing together! 🚀
+
+---
+
+⭐ _Thanks for visiting my profile!_ ⭐
+
