@@ -52,7 +52,6 @@ Mohammed VI Polytechnic University – 1337 Coding School (2022–Present)
 - 📍 **Location:** Marrakech, Morocco
 
 ---
-[![GitHub Readme Theme Switcher](https://github-readme-theme-switcher.vercel.app/api?id=loubnaout&default=radical)](https://github.com/DenverCoder1/github-readme-theme-switcher)
 ## 🤝 Open to Collaborations
 Looking for exciting tech opportunities, internships, or project collabs.  
 Let’s build something amazing together! 🚀
